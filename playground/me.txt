@@ -1,0 +1,5 @@
+{{#user}}
+Name: Blessed Mathew
+Skills: HTML, CSS, JS, Git, Bootstrap, PHP, MySQL
+Email: test@gmail.com
+{{/user}}
